@@ -1,0 +1,28 @@
+body {
+  background: linear-gradient(#ffafbd, #ffc3a0);
+  background-attachment: fixed;
+}
+.login {
+  height: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.input {
+  width: 30%;
+  height: 5%;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  padding: 4px;
+  font-size: 30px;
+  color: blue;
+}
+.loginBtn {
+  height: 50px;
+  width: 100px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 8px;
+  color: red;
+}

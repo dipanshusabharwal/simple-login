@@ -1,0 +1,13 @@
+.logoutBtn {
+  font-size: 25px;
+  font-weight: bold;
+  border-radius: 8px;
+  color: red;
+  margin-top: 30px;
+}
+body {
+  background: linear-gradient(#ffafbd, #ffc3a0);
+  background-attachment: fixed;
+  color: blue;
+  padding: 30px;
+}
